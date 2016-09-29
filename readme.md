@@ -11,19 +11,19 @@ I created a bunch of word clouds based on the tweets and hashtags used during th
 You can find the raw images in the repo or look below.
 
 All tweets wordcloud
-![All tweets wordcloud](https://github.com/JLHasson/debate-tweets-2016/alltweets_wordcloud_cropped.png)
+![All tweets wordcloud](https://github.com/JLHasson/debate-tweets-2016/blob/master/alltweets_wordcloud_cropped.png)
 
 Hillary's wordcloud
-![Hillary Wordcloud](https://github.com/JLHasson/debate-tweets-2016/hillary_wordcloud_cropped.png)
+![Hillary Wordcloud](https://github.com/JLHasson/debate-tweets-2016/blob/master/hillary_wordcloud_cropped.png)
 
 Trump's wordcloud
-![Trump Wordcloud](https://github.com/JLHasson/debate-tweets-2016/trump_wordcloud_cropped.png)
+![Trump Wordcloud](https://github.com/JLHasson/debate-tweets-2016/blob/master/trump_wordcloud_cropped.png)
 
 All hashtags wordcloud
-![All Hashtags](https://github.com/JLHasson/debate-tweets-2016/all_hashtags.png)
+![All Hashtags](https://github.com/JLHasson/debate-tweets-2016/blob/master/all_hashtags.png)
 
 Hillary's top hashtags
-![Hillary top hashtags](https://github.com/JLHasson/debate-tweets-2016/top_hillary_hashtags.png)
+![Hillary top hashtags](https://github.com/JLHasson/debate-tweets-2016/blob/master/top_hillary_hashtags.png)
 
 Trumps top hashtags
-![Trump top hashtags](https://github.com/JLHasson/debate-tweets-2016/top_trump_hashtags.png)
+![Trump top hashtags](https://github.com/JLHasson/debate-tweets-2016/blob/master/top_trump_hashtags.png)
